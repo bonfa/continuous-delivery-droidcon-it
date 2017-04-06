@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <meta-data
+            android:name="com.crashlytics.ApiKey"
+            android:value="" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="51a100d4acf114504d9edc957256cd32e15eb2c8" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
