@@ -1,8 +1,6 @@
 package com.fbonfadelli.continuousdeliveryworkshop;
 
 import android.support.test.espresso.Espresso;
-import android.support.test.espresso.EspressoException;
-import android.support.test.espresso.matcher.ViewMatchers;
 import android.support.test.rule.ActivityTestRule;
 
 import org.junit.Rule;
